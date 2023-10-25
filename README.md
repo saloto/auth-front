@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Page
 
-check it out: https://saloto.github.io/auth-front/
+
